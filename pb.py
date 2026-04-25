@@ -8,9 +8,9 @@ from discord_buttons_plugin import *
 ctypes.windll.kernel32.SetConsoleTitleW(f"")
 
 prefix = '!'
-commandchannel = 1116837103217692824
-logs = 1189006875182764113
-addbot = 1181662075227996303
+commandchannel = 1497630788148007045
+logs = 1497631613352284160
+addbot = 1497632934289477703
 token = ''
 
 queue = []
